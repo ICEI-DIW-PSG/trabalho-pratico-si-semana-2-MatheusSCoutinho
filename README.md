@@ -8,4 +8,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src="images/PrintTela.png" width="400" height="300" alt="Print da Tela do site curriculum" class="foto-SiteCurriculum">
